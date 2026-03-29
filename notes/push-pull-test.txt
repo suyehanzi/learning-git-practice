@@ -3,3 +3,4 @@ Round 2: push the current local commits.
 Round 3: edit this file and push again.
 Round 4: change a file on GitHub and pull locally.
 Round 5: practice one more local commit and push.
+Round 6: edit this file on GitHub and pull it locally.
